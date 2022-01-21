@@ -21,7 +21,7 @@ A plugin for adminer.org, that allows you to login without using a password. Use
 
 4. Be careful. Have fun.
 
-## Credits
+## Credits and License
 The work is based on the very good job that Jakub Vrana does with adminer:
 Jakub Vrana, https://www.vrana.cz/
 
