@@ -21,3 +21,10 @@ A plugin for adminer.org, that allows you to login without using a password. Use
 
 4. Be careful. Have fun.
 
+## Credits
+The work is based on the very good job that Jakub Vrana does with adminer:
+Jakub Vrana, https://www.vrana.cz/
+
+The licenses the work is underlying:
+* @license https://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0
+* @license https://www.gnu.org/licenses/gpl-2.0.html GNU General Public License, version 2 (one or other)
